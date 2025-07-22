@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the [Robotics and Embodied AI Lab (REAL) Lab](https://montrealrobotics.ca) at Mila / Université de Montréal, advised by Prof. [Liam Paull](https://liampaull.ca) and Prof. [Chris Pal](https://sites.google.com/view/christopher-pal). 
-My research interests lie at the intersection of machine learning and autonomous driving, with a particular emphasis on data-driven simulation, edge-case generation, and end-to-end autonomy. I am particularly excited about the role that simulation can play in scaling Level 4+ autonomous vehicles and how generative models can improve the realism and controllability of driving simulators.
+I am a second-year Ph.D. student in the [Robotics and Embodied AI Lab (REAL) Lab](https://montrealrobotics.ca) at Mila / Université de Montréal, advised by Prof. [Liam Paull](https://liampaull.ca) and Prof. [Chris Pal](https://sites.google.com/view/christopher-pal). I currently a Research Intern at [Waymo](https://waymo.com/) working on data-driven simulation agents for driving. My research interests lie at the intersection of machine learning and autonomous driving, with a particular emphasis on data-driven simulation, long-tail scenario generation, and end-to-end autonomy. I am particularly excited about the role that simulation can play in scaling Level 4+ autonomous vehicles and how generative models can improve the realism and controllability of driving simulators.
 
 During my Ph.D., I have completed an internship at [Torc Robotics](https://torc.ai) on generative models for data-driven simulation, working closely with [Roger Girgis](https://www.linkedin.com/in/roger-girgis-a46b959b/?originalSubdomain=ca) and [Felix Heide](https://www.cs.princeton.edu/~fheide/). 
 
