@@ -15,7 +15,7 @@ During my Ph.D., I have completed internships at [Waymo](https://waymo.com/) and
 
 Prior to this, I obtained an Master's degree in Computer Science from the University of Waterloo, where I worked with Prof. [Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) on trajectory prediction for autonomous driving. I received my Bachelor's degree in Computer Science and Mathematics from the University of Victoria, where I worked with Prof. [George Tzanetakis](http://webhome.csc.uvic.ca/~gtzan/index.html) on machine learning for music.
 
-In my free time, you can find me reading a good book, playing basketball, jazz piano, or walking around Montréal to find new vegan/vegetarian places to eat.
+In my free time, you can find me reading a good book, shooting hoops, playing jazz piano, or walking around Montréal to find new vegan/vegetarian places to eat.
 
 # Selected Publications 
 
