@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-06-gigapixel
 excerpt: ''
 date: 2026-06-17
-venue: 'CoRL 2026'
+venue: 'Conference on Robot Learning (CoRL), 2026'
 paperurl: 'https://arxiv.org/abs/2606.19641'
 imgurl: 'gigapixel.gif'
 show: true
