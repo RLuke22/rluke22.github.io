@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final-year Ph.D. student in the [Robotics and Embodied AI Lab (REAL) Lab](https://montrealrobotics.ca) at Mila / Université de Montréal, advised by Prof. [Liam Paull](https://liampaull.ca) and Prof. [Chris Pal](https://sites.google.com/view/christopher-pal). My research interests lie at the intersection of machine learning and autonomous driving, with a particular emphasis on data-driven simulation, reinforcement learning, and end-to-end autonomy. I am particularly excited about the role that simulation can play in scaling Level 4+ autonomous vehicles and how generative models can improve the realism and controllability of driving simulators.
 
-During my Ph.D., I have completed internships at [Waymo](https://waymo.com/) and [Torc Robotics](https://torc.ai). 
+During my Ph.D., I have completed two internships at [Waymo](https://waymo.com/) and an internship at [Torc Robotics](https://torc.ai). 
 
 
 Prior to this, I obtained an Master's degree in Computer Science from the University of Waterloo, where I worked with Prof. [Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) on trajectory prediction for autonomous driving. I received my Bachelor's degree in Computer Science and Mathematics from the University of Victoria, where I worked with Prof. [George Tzanetakis](http://webhome.csc.uvic.ca/~gtzan/index.html) on machine learning for music.
